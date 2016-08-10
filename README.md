@@ -1,2 +1,2 @@
-# this repository is test for exercise of github
+# this is test repository for exercise of github
 - test item
